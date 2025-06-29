@@ -37,7 +37,7 @@ export const EXPERIENCE: ExperienceProp[] = [
   {
     dates: "August 2021 — April 2023",
     title: "Software Engineer 1",
-    company: "  Epsilon India",
+    company: "Epsilon India",
     companyUrl: "https://www.epsilon.com/apac",
     description: "Contributed to front-end development using Angular, delivering responsive and user-friendly web interfaces. Developed RESTful APIs utilizing AWS SDKs, enabling seamless integration with cloud services and enhancing backend functionality. Implemented Okta authentication to strengthen security, reducing unauthorized access incidents by 30% and streamlining user access management. Additionally, designed and implemented rules for abandoned campaigns, optimizing marketing strategies and improving customer retention and engagement, which led to a 20% increase in conversion rates.",
     technologies: [
@@ -45,13 +45,14 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Amazon Web Services (AWS)",
       "REST APIs",
       "Java",
-      "Drools",],
+      "Drools"
+    ],
     logo: "/logos/epsilon.jpg",
   },
   {
-    dates: "January 2021 — August 20221",
+    dates: "January 2021 — August 2021",
     title: "Intern",
-    company: "  Epsilon India",
+    company: "Epsilon India",
     companyUrl: "https://www.epsilon.com/apac",
     description:
       "Developed and implemented API automation testing using the Gauge framework, enhancing test efficiency and reliability, and increasing overall automation coverage by 30%. Designed and executed UI automation tests with the Taiko framework, improving front-end testing accuracy by over 50% and boosting test coverage by 25%. Authored and integrated over 100 JUnit tests, achieving 80% code coverage and significantly improving reliability and robustness, which reduced critical bugs across the application. Additionally, resolved both front-end and back-end issues, leading to an 80% decrease in incidents within six months and greatly improving application stability.",
